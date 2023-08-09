@@ -31,6 +31,10 @@ For VI Admins, AI and ML open up many possibilities, such as:
 ## Where and how can you learn it?
 
 ### Free
+https://core.vmware.com/ai-ml
+https://via.vmw.com/tchzcoreno3597
+https://core.vmware.com/blog/unexplored-territory-podcast-machine-learning-conversation-vmware-and-itq-consulting
+https://learn.microsoft.com/en-us/training/modules/get-started-ai-fundamentals/
 
 ### Paid
 
